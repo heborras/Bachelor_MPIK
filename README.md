@@ -1,5 +1,7 @@
 # Source code repository for the bachelor thesis of Hendrik Borras
 
+The thesis was published in the publication repository of the Max Planck Society. It is freely accessible via this [link](http://hdl.handle.net/21.11116/0000-0001-193B-2).
+
 ## Folder structure and links to important source code
 This repository contains multiple folders, which structure is inspired by the structure of the thesis.
 * CosMO-detector: Everything within the CosMO-chapter
